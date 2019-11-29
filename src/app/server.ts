@@ -6,7 +6,6 @@ import { MsTeamsApiRouter, MsTeamsPageRouter } from "express-msteams-host";
 import * as debug from "debug";
 
 
-
 // Initialize debug logging module
 const log = debug("msteams");
 
